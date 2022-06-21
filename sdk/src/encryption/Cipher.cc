@@ -16,6 +16,7 @@
 
 #include "CipherOpenssl.h"
 #include <openssl/rand.h>
+#include <limits.h>
 
 using namespace AlibabaCloud::OSS;
 
